@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Life()
+comment1.params=file
+comment1.target=boolean[][]\ evaluate(java.io.File)
+comment2.params=x\ y
+comment2.target=boolean\ updateBacteria(int,\ int)
+comment3.params=
+comment3.target=void\ updateGrid()
+comment4.params=
+comment4.target=void\ countLiving()
+comment5.params=
+comment5.target=void\ display()
+numComments=6
